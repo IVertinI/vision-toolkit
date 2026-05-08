@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvision_toolkit.a CMakeFiles/vision_toolkit.dir/src/filters.cpp.o CMakeFiles/vision_toolkit.dir/src/transforms.cpp.o
+/usr/bin/ranlib libvision_toolkit.a
