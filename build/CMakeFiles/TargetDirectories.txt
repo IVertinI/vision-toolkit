@@ -1,0 +1,7 @@
+/home/vertin/vision-toolkit/build/CMakeFiles/vision_toolkit.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/app.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/demo.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/test_filters.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/test.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/edit_cache.dir
+/home/vertin/vision-toolkit/build/CMakeFiles/rebuild_cache.dir
